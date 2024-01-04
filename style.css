@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-  .todo-wrapper { text-align: center;
+  .todo-wrapper {
+    text-align: center;
   }
 }
 .wrapper {
@@ -41,7 +42,7 @@ ul {
 li, h3 {
   list-style:none;
 }
-input,button{
+input,button {
   outline:none;
 }
 .button {
