@@ -121,7 +121,7 @@ button {
   width: 226px;
 }
 .input:not(:first-child) {
-  width: 226px
+  width: 226px;
 }
 .delete__img {
   height: 2em;
