@@ -40,13 +40,16 @@ ul {
   margin: 0;
   padding: 0;
 }
+.h1 {
+  display: none;
+}
 li,
-h1,
 h2 {
   list-style: none;
 }
-input,
-button {
+.input,
+.delete,
+.edit {
   outline: none;
 }
 .wrapper-task__button,
