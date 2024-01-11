@@ -47,8 +47,9 @@ li,
 h2 {
   list-style: none;
 }
-input,
-button {
+.input,
+.delete,
+.edit {
   outline: none;
 }
 .wrapper-task__button,
